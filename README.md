@@ -4,6 +4,7 @@ Project 1 in support of Udacity Intro to Machine Learning Nanodegree.  The focus
 
 ### This repository is a Work In Progress ###
 Project Start date: 5 May 2020
+Project First Submission date: 10 May 2020
 
 When completed this project will contain all the files and data used to complete the first project in the nanodegree.
 
@@ -13,12 +14,17 @@ This project requires Python 3.x and the following Python libraries installed:
 * NumPy
 * Pandas
 * matplotlib
+* seaborn
 * scikit-learn
 * You will also need to have software installed to run and execute an iPython Notebook
 
 ### Code
 
 Template code is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+
+Two image files are included that are used in the notebook.  The files are `Project1_ModelCompare.png` and `SGDC_explain.png`.
+
+While the code in `visuuals.py` was not intended to be modified, I did modify one of the methods to address a warning with tight_layout.  I used a differnt approach to address how the subplots were being spaced.
 
 ### Run
 
