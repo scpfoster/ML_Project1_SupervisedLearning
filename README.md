@@ -5,6 +5,7 @@ Project 1 in support of Udacity Intro to Machine Learning Nanodegree.  The focus
 ### This repository is a Work In Progress ###
 1. Project Start date: 5 May 2020
 2. Project First Submission date: 10 May 2020
+3. Project Second Submission date: 11 May 2020
 
 When completed this project will contain all the files and data used to complete the first project in the nanodegree.
 
